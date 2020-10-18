@@ -1,2 +1,2 @@
-1. index
-This is my app
+
+This is my first try to use git.
